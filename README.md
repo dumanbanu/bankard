@@ -10,8 +10,12 @@ Bankard is the name of our programming language.
 
 
 #BNF Form
+
 <program> = <statement_list>
+    
     <statement_list> = <statement> | <statement_list>
+    
+    
         
     
 
