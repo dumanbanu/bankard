@@ -28,7 +28,7 @@ Our languages syntax is variablename = variablevalue ; it must include the semic
 And the variable names first letter must be lowercase character and the second letter must be uppercase.
 For the booleans their first letter must be uppercase and the rest is lowercase.
 
--- Has while,do...
+-- Has while,do,if,else,print
 
 
 -- You can run your program by running the makefile and giving it to bankard as input:
