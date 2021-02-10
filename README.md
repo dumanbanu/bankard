@@ -1,8 +1,8 @@
 # Bankard
 
-Banu Duman 20150807034
+Banu Duman 
 
-Kardelen Kuşçek 20160807020
+Kardelen Kuşçe
 
 
 Bankard is the name of our programming language.
